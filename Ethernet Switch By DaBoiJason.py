@@ -30,3 +30,4 @@ keyboard.on_press_key("F2", on_f2, suppress=True)
 keyboard.on_press_key("F3", on_f3)
 keyboard.wait("F3")
 keyboard.unhook_all()
+

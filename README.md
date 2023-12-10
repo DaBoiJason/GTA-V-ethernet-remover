@@ -61,4 +61,4 @@ Before running the script, ensure you have the following:
 4. Press F2 to disable the Ethernet connection on the very frame that you get the color change from the Heist passed message, F1 to enable it again, and F3 to terminate the script.
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [Apache-2.0 license](LICENSE.md).

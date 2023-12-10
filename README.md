@@ -21,6 +21,19 @@ Before running the script, ensure you have the following:
   ```bash
   pip install keyboard
   ```
+## GTA V implication
+1. Finish the Heist
+
+2. Press F2 to disable the Ethernet connection on the very frame that you get the color change from the Heist passed message.
+
+3. Wait till you get the save Error message from rockstar games on the bottom left.
+
+4. Once it takes you back to offline mode, press F1 to enable it again.
+
+5. Press Home and reconnect on socialclub and then join online
+
+6. Press F3 to terminate the script whenever you want.
+
 ## Usage
 
 1. Clone the repository:

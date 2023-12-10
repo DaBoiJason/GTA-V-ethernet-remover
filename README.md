@@ -3,6 +3,7 @@
 ## Overview
 
 This Python script provides a simple command-line interface to control the state of the Ethernet connection on a Windows system. It allows you to disable the Ethernet connection by pressing F2, enable it again by pressing F1, and terminate the script using F3.
+
 ## Features
 
 ### Binds

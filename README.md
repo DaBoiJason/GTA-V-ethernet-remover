@@ -54,7 +54,7 @@ Before running the script, ensure you have the following:
    Or
    ```
    ```bash
-   just run the py script whit double click
+   just run the py script with double click
    ```
 
 4. Press F2 to disable the Ethernet connection on the very frame that you get the color change from the Heist passed message, F1 to enable it again, and F3 to terminate the script.

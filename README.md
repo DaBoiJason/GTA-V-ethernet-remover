@@ -5,17 +5,22 @@
 This Python script provides a simple command-line interface to control the state of the Ethernet connection on a Windows system. It allows you to disable the Ethernet connection by pressing F2, enable it again by pressing F1, and terminate the script using F3.
 ## Features
 
-- Disable Ethernet connection: Press F2.
+### Binds
+
 - Enable Ethernet connection: Press F1.
+- Disable Ethernet connection: Press F2.
 - Terminate the script: Press F3.
-## Prerequisites
+- The script is intended for windows 10 and 11 use, I am working on an alternative for LinuxOS.
+## Required dependancies/conditions
 
 Before running the script, ensure you have the following:
 
 - Python 3.x installed on your system.
 - The `keyboard` module. Install it using the following command:
+  
   ```bash
   pip install keyboard
+  ```
 ## Usage
 
 1. Clone the repository:
@@ -32,8 +37,14 @@ Before running the script, ensure you have the following:
    ```bash
    python ethernet_controller.py
    ```
+   ```bash
+   Or
+   ```
+   ```bash
+   just run the py script whit double click
+   ```
 
-4. Press F2 to disable the Ethernet connection, F1 to enable it again, and F3 to terminate the script.
+4. Press F2 to disable the Ethernet connection on the very frame that you get the color change from the Heist passed message, F1 to enable it again, and F3 to terminate the script.
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
